@@ -138,6 +138,7 @@ typedef void(*Func)(AddressBook*);
 AddressBook addressBook;
 
 int main() {
+
 	// ×ªÒÆ±í
 	Func funcs[] = {
 		NULL,

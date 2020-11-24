@@ -67,51 +67,6 @@ void func() {
 
 	// 中间是一些处理代码
 
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-	if (xx) {
-		free(p);
-		return;
-	}
-
 	free(p);
 }
 
